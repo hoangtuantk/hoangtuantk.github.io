@@ -1,0 +1,877 @@
+Package: com.hoangtuan.amber
+Version: 0.0.4
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Amber-ify your LED torch.
+Author: PoomSmart
+Maintainer: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Support: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0), gsc.camera-flash, firmware (>= 11.0) | com.a3tweaks.flipswitch, firmware (<< 11.0) | com.opa334.ccsupport
+Filename: ./debs/com.hoangtuan.amber_0.0.4_iphoneos-arm.deb
+Size: 52710
+Installed-Size: 528
+MD5sum: 418dab5fc9f384ac5c7559a1c7877900
+Homepage: https://facebook.com/qq.robert
+Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.amber
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Name: Amber
+
+Package: com.hoangtuan.amber
+Version: 0.0.5
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Amber-ify your LED torch.
+Author: PoomSmart
+Maintainer: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Support: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0), gsc.camera-flash, firmware (>= 11.0) | com.a3tweaks.flipswitch, firmware (<< 11.0) | com.opa334.ccsupport
+Filename: ./debs/com.hoangtuan.amber_0.0.5_iphoneos-arm.deb
+Size: 53222
+Installed-Size: 528
+MD5sum: 7ad4f77544c5e42009814bb1a6d7ab24
+Homepage: https://facebook.com/qq.robert
+Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.amber
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Name: Amber
+
+Package: com.hoangtuan.amber
+Version: 0.0.5.1
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Amber-ify your LED torch.
+Author: PoomSmart
+Maintainer: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Support: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0), gsc.camera-flash, firmware (>= 11.0) | com.a3tweaks.flipswitch, firmware (<< 11.0) | com.opa334.ccsupport
+Filename: ./debs/com.hoangtuan.amber_0.0.5.1_iphoneos-arm.deb
+Size: 53318
+Installed-Size: 528
+MD5sum: 410859d1cd33069ba7139f594decaa05
+Homepage: https://facebook.com/qq.robert
+Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.amber
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Name: Amber
+
+Package: com.hoangtuan.amber
+Version: 1.0.0
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Amber-ify your LED torch.
+Author: PoomSmart
+Maintainer: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Support: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0), gsc.camera-flash, firmware (>= 11.0) | com.a3tweaks.flipswitch, firmware (<< 11.0) | com.opa334.ccsupport
+Filename: ./debs/com.hoangtuan.amber_1.0.0_iphoneos-arm.deb
+Size: 56612
+Installed-Size: 592
+MD5sum: 540529bc56cadd89de3fe015f00d1eb8
+Homepage: https://facebook.com/qq.robert
+Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.amber
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Name: Amber
+
+Package: com.hoangtuan.appshacks
+Version: 4.5-3
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Hack Vip cho các ứng dụng
+Author: hmodei96
+Maintainer: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Support: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/com.hoangtuan.appshacks_4.5-3_iphoneos-arm.deb
+Size: 3151126
+Installed-Size: 6191
+MD5sum: cc4e415ee6d7748e5f718aaf3ea6d395
+Homepage: https://facebook.com/qq.robert
+Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.appshacks
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Name: Apps Hacks VH
+
+Package: com.hoangtuan.appsmanager
+Version: 1.6.1-10
+Architecture: iphoneos-arm
+Section: Utilities
+Description: Công cụ để SAO LƯU, KHÔI PHỤC Dữ liệu ứng dụng cho các Ứng dụng đã cài đặt
+Author: TIGI Software <satashi2009@gmail.com>
+Maintainer: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Support: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Filename: ./debs/com.hoangtuan.appsmanager_1.6.1-10_iphoneos-arm.deb
+Size: 5391096
+Installed-Size: 9112
+MD5sum: 1a6952fd0a500e522bf1a2d03b6b328f
+Homepage: https://facebook.com/qq.robert
+Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.appsmanager
+Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
+Name: Apps Manager
+
+Package: com.hoangtuan.appstoreplusplus
+Version: 0.9.16-2
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Cho phép bạn hạ cấp/nâng cấp ứng dụng trong AppStore trên iOS 11-14.
+Author: CokePokes
+Maintainer: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Support: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Priority: optional
+Filename: ./debs/com.hoangtuan.appstoreplusplus_0.9.16-2_iphoneos-arm.deb
+Size: 3014180
+Installed-Size: 8499
+MD5sum: b669b8e227d9eca5f60ddacd0bc5281b
+Homepage: https://facebook.com/qq.robert
+Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.appstoreplusplus
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Name: AppStore++
+
+Package: com.hoangtuan.assistivetouchx
+Version: 1.0
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: AssistiveTouchX thay thế các biểu tượng Assistive Touch mặc định bằng các biểu tượng của iPhone X (làm cho biểu tượng Assistive Touch tròn). QUAN TRỌNG: Tinh chỉnh này sửa đổi một ứng dụng hệ thống, trong khi nó an toàn và đã được thử nghiệm, hãy tự chịu rủi ro khi cài đặt.
+Author: jailbreak365
+Maintainer: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Support: Hoàng Tuân <mail.hoangtuan98@gmail.com> 
+Filename: ./debs/com.hoangtuan.assistivetouchx_1.0_iphoneos-arm.deb
+Size: 475036
+Installed-Size: 715
+MD5sum: b19388ec9e80af2ab5f49f79392083f3
+Homepage: https://facebook.com/qq.robert
+Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.assistivetouchx
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Name: AssistiveTouchX
+
+Package: com.hoangtuan.bakgrunnur
+Version: 1.5.15
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Truly backgrounding your apps
+Author: udevs
+Maintainer: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Support: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap (>= 1.0.3), com.opa334.ccsupport, firmware(>=13.0), applist
+Filename: ./debs/com.hoangtuan.bakgrunnur_1.5.15_iphoneos-arm.deb
+Size: 376858
+Installed-Size: 1416
+MD5sum: 710a16460fb3d73cbf831349487a7e3e
+Homepage: https://facebook.com/qq.robert
+Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.bakgrunnur
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Name: Bakgrunnur
+
+Package: com.hoangtuan.bakgrunnur
+Version: 1.6.6
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Truly backgrounding your apps
+Author: udevs
+Maintainer: udevs
+Support: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap (>= 1.0.3), com.opa334.ccsupport, firmware(>=13.0), applist, com.udevs.vexillarius
+Filename: ./debs/com.hoangtuan.bakgrunnur_1.6.6_iphoneos-arm.deb
+Size: 396050
+Installed-Size: 1440
+MD5sum: 4df23727dbe0e6a9dceda2c299c87720
+Homepage: https://facebook.com/qq.robert
+Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.bakgrunnur
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Name: Bakgrunnur
+
+Package: com.hoangtuan.bakgrunnur
+Version: 1.7.1
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Truly backgrounding your apps
+Author: udevs
+Maintainer: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Support: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware(>=13.0), com.opa334.ccsupport, com.opa334.altlist, com.udevs.vexillarius
+Filename: ./debs/com.hoangtuan.bakgrunnur_1.7.1_iphoneos-arm.deb
+Size: 389564
+Installed-Size: 1448
+MD5sum: 2f3d39f115462cb403a4e0ee1d6197cd
+Homepage: https://facebook.com/qq.robert
+Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.bakgrunnur
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Name: Bakgrunnur
+
+Package: com.hoangtuan.bypassmbbank
+Version: 1.0-20
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Chặn phát hiện Jailbreak App Ngân Hàng MBBank
+Author: IPALibrary 
+Maintainer: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Support: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.hoangtuan.bypassmbbank_1.0-20_iphoneos-arm.deb
+Size: 258158
+Installed-Size: 644
+MD5sum: d690d4052b1450f69e1cf2a09692359c
+Homepage: https://facebook.com/qq.robert
+Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.bypassmbbank
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Name: Bypass MBBank
+
+Package: com.hoangtuan.bypasstechcombank
+Version: 0.0.6
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Chặn phát Hiện Jailbreak cho App Ngân Hàng Techcombank - F@st Mobile.
+Author: Kan
+Maintainer: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Support: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.hoangtuan.bypasstechcombank_0.0.6_iphoneos-arm.deb
+Size: 3414
+Installed-Size: 67
+MD5sum: b940b892fa3d39c9b1a486e75a4eac4d
+Homepage: https://facebook.com/qq.robert
+Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.bypasstechcombank
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Name: Bypass Techcombank
+
+Package: com.hoangtuan.cloneappcmd
+Version: 1.0~b2
+Architecture: iphoneos-arm
+Section: Development
+Description: Nhân bản ứng dụng bằng lệnh cmd
+Author: shin-chan
+Maintainer: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Depends: com.bingner.plutil, net.angelxwind.appsyncunified
+Filename: ./debs/com.hoangtuan.cloneappcmd_1.0~b2_iphoneos-arm.deb
+Size: 94204
+Installed-Size: 297
+MD5sum: 7ce33484664fe1799a27b87a139d5682
+Homepage: https://facebook.com/qq.robert
+Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.cloneappcmd
+Icon: file:///Applications/Cydia.app/Sections/HTR-5.png
+Name: Clone App Command
+
+Package: com.hoangtuan.copylog.tv
+Version: 1.5.3
+Architecture: iphoneos-arm
+Section: Localization
+Description: Thêm ngôn ngữ tiếng Việt cho Copylog.
+Author: Hoàng Tuân
+Maintainer: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Support: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Filename: ./debs/com.hoangtuan.copylog.tv_1.5.3_iphoneos-arm.deb
+Size: 2854
+Installed-Size: 3
+MD5sum: f1b793373a13f6bc8cda4453d4b65ae7
+Homepage: https://facebook.com/qq.robert
+Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.copylog.tv
+Icon: file:///Applications/Cydia.app/Sections/HTR-4.png
+Name: CopyLog (Thêm tiếng Việt)
+
+Package: com.hoangtuan.cputool.tv
+Version: 1.9
+Architecture: iphoneos-arm
+Section: Localization
+Description: Thêm ngôn ngữ tiếng Việt cho CPUTool
+Author: Hoàng Tuân
+Maintainer: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Support: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Filename: ./debs/com.hoangtuan.cputool.tv_1.9_iphoneos-arm.deb
+Size: 2702
+Installed-Size: 3
+MD5sum: 99c7d2f61cd95d30eed6fdd96daef5be
+Homepage: https://facebook.com/qq.robert
+Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.cputool.tv
+Icon: file:///Applications/Cydia.app/Sections/HTR-4.png
+Name: CPUTool (Thêm tiếng Việt)
+
+Package: com.hoangtuan.crackerxi
+Version: 1.1.16
+Architecture: iphoneos-arm
+Section: Utilities
+Description: Decrypts iOS Apps
+Author: c0pyn1nja
+Maintainer: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Support: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Depends: firmware (>= 11.0)
+Filename: ./debs/com.hoangtuan.crackerxi_1.1.16_iphoneos-arm.deb
+Size: 9961058
+Installed-Size: 29184
+MD5sum: 7953fdbc4e6a84e87ebd799d1ef6c890
+Homepage: https://facebook.com/qq.robert
+Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.crackerxi
+Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
+Name: CrackerXI+
+
+Package: com.hoangtuan.cydown
+Version: 7.1.1
+Architecture: iphoneos-arm
+Section: Utilities
+Description: Thêm tính năng bổ sung cho Cydia, Zebra, Installer
+Author: julioverne <julioverne@me.com>
+Maintainer: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Support: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
+Filename: ./debs/com.hoangtuan.cydown_7.1.1_iphoneos-arm.deb
+Size: 4311626
+Installed-Size: 10957
+MD5sum: 1788c790291d68537836556d59117db2
+Homepage: https://facebook.com/qq.robert
+Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.cydown
+Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
+Name: CyDown VH
+
+Package: com.hoangtuan.dlgmemorinjected
+Version: 11.3.1
+Architecture: iphoneos-arm
+Section: Utilities
+Description: Thay đổi bộ nhớ ứng dụng
+Author: AnonymousxiosdeV <aligamer889@gmail.com>
+Maintainer: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Support: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Depends: mobilesubstrate, preferenceloader, applist
+Conflicts: com.yourepo.ghacks.dlgmemorinjected
+Filename: ./debs/com.hoangtuan.dlgmemorinjected_11.3.1_iphoneos-arm.deb
+Size: 264412
+Installed-Size: 701
+MD5sum: a75ba30afcab02ddc56883a15c42f2ae
+Homepage: https://facebook.com/qq.robert
+Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.dlgmemorinjected
+Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
+Name: DLGMemor Injected
+
+Package: com.hoangtuan.ext3nder-installer
+Version: 022b
+Architecture: iphoneos-arm
+Section: Utilities
+Description: Cydia Extender Installer With Extra Features
+Author: julioverne
+Maintainer: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Support: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Depends: mobilesubstrate
+Conflicts: com.julioverne.ext3nder
+Pre-Depends: ldid, unzip, coreutils, zip, sed
+Filename: ./debs/com.hoangtuan.ext3nder-installer_022b_iphoneos-arm.deb
+Size: 1947686
+Installed-Size: 1571
+MD5sum: bfaabdd8dde71316b046eb28d592ea7d
+Homepage: https://facebook.com/qq.robert
+Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.ext3nder-installer
+Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
+Name: Ext3nder Installer
+
+Package: com.hoangtuan.filza
+Version: 3.8.2-6
+Architecture: iphoneos-arm
+Section: Utilities
+Description: Trình quản lý tập tin
+Author: TIGI Software
+Maintainer: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Support: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit, com.hoangtuan.filza64bit
+Filename: ./debs/com.hoangtuan.filza_3.8.2-6_iphoneos-arm.deb
+Size: 12984200
+Installed-Size: 32108
+MD5sum: 6ee9c86b684e1bebe2b5b2aa391727ef
+Homepage: https://facebook.com/qq.robert
+Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.filza
+Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
+Name: Filza File Manager
+
+Package: com.hoangtuan.filza64bit
+Version: 3.8.2-6
+Architecture: iphoneos-arm
+Section: Utilities
+Description: Trình quản lý tập tin
+Author: TIGI Software
+Maintainer: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Support: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza, com.hoangtuan.filza
+Filename: ./debs/com.hoangtuan.filza64bit_3.8.2-6_iphoneos-arm.deb
+Size: 8422478
+Installed-Size: 21788
+MD5sum: 47848a131c0e241ff6220c0e8c19d4d6
+Homepage: https://facebook.com/qq.robert
+Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.filza64bit
+Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
+Name: Filza File Manager 64bit
+
+Package: com.hoangtuan.flyjbx
+Version: 1.2.5
+Architecture: iphoneos-arm
+Section: Utilities
+Author: XsF1re
+Maintainer: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Support: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Depends: mobilesubstrate
+Conflicts: kr.xsf1re.flyjb
+Filename: ./debs/com.hoangtuan.flyjbx_1.2.5_iphoneos-arm.deb
+Size: 768334
+Installed-Size: 1580
+MD5sum: e6f34126b4b5296bd52be01bfd30ab67
+Homepage: https://facebook.com/qq.robert
+Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.flyjbx
+Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
+Name: FlyJB X VH
+
+Package: com.hoangtuan.goodwifi
+Version: 0.0~beta6
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Better WiFi Preferences
+Author: julioverne
+Maintainer: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Support: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.hoangtuan.goodwifi_0.0~beta6_iphoneos-arm.deb
+Size: 155994
+Installed-Size: 624
+MD5sum: 9aa8813bb064d0f057349736fb27038d
+Homepage: https://facebook.com/qq.robert
+Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.goodwifi
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Name: GoodWiFi
+
+Package: com.hoangtuan.iosgodsiapcracker
+Version: 1.0-2+debug
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Free iAP Purchase for some apps and games, it doesn’t always work so don’t expect much. Turn on the tweak inside iOS Settings. This tweak is made by @Laxus for iOSGods.com, supported A12 / A13 devices
+Author: Laxus
+Maintainer: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Support: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.hoangtuan.iosgodsiapcracker_1.0-2+debug_iphoneos-arm.deb
+Size: 17790
+Installed-Size: 296
+MD5sum: 28c63f1e7191d5ea4640a47e3e1274f5
+Homepage: https://facebook.com/qq.robert
+Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.iosgodsiapcracker
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Name: iOSGods iAP Cracker
+
+Package: com.hoangtuan.Lightroom
+Version: 6.0.2
+Architecture: iphoneos-arm
+Section: Hack Apps
+Description: Hack Premium cho Adobe Lightroom Photo Editor
+Author: Laxus
+Maintainer: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.hoangtuan.Lightroom_6.0.2_iphoneos-arm.deb
+Size: 2418282
+Installed-Size: 8576
+MD5sum: 1808c5a152606d5a4b610d937b50ceca
+Homepage: https://iosgods.com
+Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.Lightroom
+Icon: file:///Applications/Cydia.app/Sections/HTR-9.png
+Name: Adobe Lightroom Photo Editor Cheats
+
+Package: com.hoangtuan.localiapstore
+Version: 1.4-5b
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Mua in-app trong ứng dụng miễn phí
+Author: Anondev
+Maintainer: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Support: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader
+Filename: ./debs/com.hoangtuan.localiapstore_1.4-5b_iphoneos-arm.deb
+Size: 71058
+Installed-Size: 235
+MD5sum: 82ce7fc57f0fb9af2868bd284f29b15d
+Homepage: https://facebook.com/qq.robert
+Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.localiapstore
+Sileodepiction: https://hoangtuantk.github.io/sileo-depictions/?p=com.hoangtuan.localiapstore
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Name: LocaliAPStore
+
+Package: com.hoangtuan.localiapstore13
+Version: 0.0.2
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Mua in-app trong ứng dụng miễn phí
+Author: pxcex
+Maintainer: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Support: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.hoangtuan.localiapstore13_0.0.2_iphoneos-arm.deb
+Size: 3904
+Installed-Size: 136
+MD5sum: e833415982f71326683f107aa716158c
+Homepage: https://facebook.com/qq.robert
+Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.localiapstore13
+Sileodepiction: https://hoangtuantk.github.io/sileo-depictions/?p=com.hoangtuan.localiapstore13
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Name: LocaliAPStore13
+
+Package: com.hoangtuan.milkyway2
+Version: 0.2.1
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Tinh chỉnh nâng cao cho đa nhiệm
+Author: akusio <akusio-report@neko2.net>
+Maintainer: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Support: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Depends: mobilesubstrate, applist, preferenceloader
+Filename: ./debs/com.hoangtuan.milkyway2_0.2.1_iphoneos-arm.deb
+Size: 84712
+Installed-Size: 376
+MD5sum: b67643187ea9f560479178da97a7d378
+Homepage: https://facebook.com/qq.robert
+Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.milkyway2
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Name: MilkyWay2
+
+Package: com.hoangtuan.milkyway2-ios14fix
+Version: 0.0.1
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Sửa lỗi Milkyway2 không hoạt động trên iOS14.
+Author: Brend0n
+Maintainer: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Support: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Depends: com.hoangtuan.milkyway2
+Filename: ./debs/com.hoangtuan.milkyway2-ios14fix_0.0.1_iphoneos-arm.deb
+Size: 4768
+Installed-Size: 132
+MD5sum: 15fb5d78c641c569c38e2e1994c2cfbd
+Homepage: https://facebook.com/qq.robert
+Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.milkyway2-ios14fix
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Name: MilkyWay2 (Fix iOS14)
+
+Package: com.hoangtuan.milkyway2-ios14fix
+Version: 0.0.2
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Sửa lỗi Milkyway2 không hoạt động trên iOS14.
+Author: Brend0n
+Maintainer: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Support: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Depends: com.hoangtuan.milkyway2, mobilesubstrate
+Filename: ./debs/com.hoangtuan.milkyway2-ios14fix_0.0.2_iphoneos-arm.deb
+Size: 16746
+Installed-Size: 136
+MD5sum: eb1385eef0d95a9d3e331b857d30f8e8
+Homepage: https://facebook.com/qq.robert
+Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.milkyway2-ios14fix
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Name: MilkyWay2 (Fix iOS14)
+
+Package: com.hoangtuan.newterm2
+Version: 2.5
+Architecture: iphoneos-arm
+Section: Development
+Description: Một ứng dụng đầu cuối mạnh mẽ dành cho iOS
+Author: HASHBANG Productions <support@hbang.ws>
+Maintainer: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Support: https://hashbang.productions/support/
+Depends: firmware (>= 10.0), firmware (>= 12.2) | org.swift.libswift, ws.hbang.common (>= 1.13), bash, coreutils, ncurses, system-cmds, com.linusyang.localeutf8
+Conflicts: ws.hbang.newterm, com.lint.ntarrows
+Replaces: ws.hbang.newterm, com.lint.ntarrows
+Filename: ./debs/com.hoangtuan.newterm2_2.5_iphoneos-arm.deb
+Size: 2997622
+Installed-Size: 6664
+MD5sum: 65cdbacc11d89f3ab93a221744759b52
+Homepage: https://facebook.com/qq.robert
+Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.newterm2
+Icon: file:///Applications/Cydia.app/Sections/HTR-5.png
+Name: NewTerm 2
+
+Package: com.hoangtuan.nopassafterrespringsafe
+Version: 0.0.2
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Không cần nhập passcode sau khi respring
+Author: Brend0n <brendonjkding@126.com>
+Maintainer: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Support: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.hoangtuan.nopassafterrespringsafe_0.0.2_iphoneos-arm.deb
+Size: 11316
+Installed-Size: 200
+MD5sum: f382ef7ab06c7e79d2ecfa6ac2f9b77d
+Homepage: https://facebook.com/qq.robert
+Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.nopassafterrespringsafe
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Name: NoPassAfterRespring (Safe)
+
+Package: com.hoangtuan.powerselector11
+Version: 1.3.3
+Architecture: iphoneos-arm
+Section: Utilities
+Description: The power supply relation of a device is operated.
+Author: ichitaso <willfeeltips+ps11@gmail.com>
+Maintainer: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+dev: ichitaso
+Sponsor: thebigboss.org <http://thebigboss.org>
+Support: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
+Replaces: com.ichitaso.powerselector11
+Pre-Depends: firmware (>= 11.0)
+Filename: ./debs/com.hoangtuan.powerselector11_1.3.3_iphoneos-arm.deb
+Size: 386490
+Installed-Size: 2424
+MD5sum: 7939f6916e3388e27186403dbe5ad2b3
+Homepage: https://facebook.com/qq.robert
+Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.powerselector11
+Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
+Name: PowerSelector (iOS 11 to 14)
+
+Package: com.hoangtuan.safariplus
+Version: 1.7.17-3
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Thêm tinh chỉnh cho Safari
+Author: opa334 <opa334@protonmail.com>
+Maintainer: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Support: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common, com.creaturesurvive.libcscolorpicker, com.rpetrich.rocketbootstrap, com.opa334.libundirect (>= 1.1) | firmware (<< 14.0)
+Filename: ./debs/com.hoangtuan.safariplus_1.7.17-3_iphoneos-arm.deb
+Size: 2010338
+Installed-Size: 5430
+MD5sum: b69cf5d9cc94675a959119874b02b710
+Homepage: https://facebook.com/qq.robert
+Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.safariplus
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Name: Safari Plus VH
+
+Package: com.hoangtuan.safariplus
+Version: 1.7.17-4
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Thêm tinh chỉnh cho Safari
+Author: opa334 <opa334@protonmail.com>
+Maintainer: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Support: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common, com.creaturesurvive.libcscolorpicker, com.rpetrich.rocketbootstrap, com.opa334.libundirect (>= 1.1) | firmware (<< 14.0)
+Filename: ./debs/com.hoangtuan.safariplus_1.7.17-4_iphoneos-arm.deb
+Size: 2012722
+Installed-Size: 5420
+MD5sum: bafb611939e17ac11e6dbd22918408ac
+Homepage: https://facebook.com/qq.robert
+Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.safariplus
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Name: Safari Plus VH
+
+Package: com.hoangtuan.safariplus
+Version: 1.7.17-5
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Thêm tinh chỉnh cho Safari
+Author: opa334 <opa334@protonmail.com>
+Maintainer: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Support: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common, com.creaturesurvive.libcscolorpicker, com.rpetrich.rocketbootstrap, com.opa334.libundirect (>= 1.1) | firmware (<< 14.0)
+Filename: ./debs/com.hoangtuan.safariplus_1.7.17-5_iphoneos-arm.deb
+Size: 2011480
+Installed-Size: 5420
+MD5sum: 74b4d0d6cc90a16701fb9af4c856f052
+Homepage: https://facebook.com/qq.robert
+Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.safariplus
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Name: Safari Plus VH
+
+Package: com.hoangtuan.spotilife
+Version: 1.5
+Architecture: iphoneos-arm
+Section: Hack Apps
+Description: Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked... Requires Spotify App (AppStore)
+Author: julioverne
+Maintainer: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Support: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.hoangtuan.spotilife_1.5_iphoneos-arm.deb
+Size: 203570
+Installed-Size: 612
+MD5sum: 62e198ed0aa18b0f9d68f8cbd8d74db7
+Homepage: https://facebook.com/qq.robert
+Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.spotilife
+Icon: file:///Applications/Cydia.app/Sections/HTR-9.png
+Name: Spotify Premium
+
+Package: com.hoangtuan.spotilife
+Version: 1.6
+Architecture: iphoneos-arm
+Section: Hack Apps
+Description: Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked... Requires Spotify App (AppStore)
+Author: julioverne
+Maintainer: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Support: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.hoangtuan.spotilife_1.6_iphoneos-arm.deb
+Size: 220174
+Installed-Size: 710
+MD5sum: 7df193ca800e86d4dbfe7c12e426bf15
+Homepage: https://facebook.com/qq.robert
+Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.spotilife
+Icon: file:///Applications/Cydia.app/Sections/HTR-9.png
+Name: Spotify Premium
+
+Package: com.hoangtuan.substrated
+Version: 0.9.7113
+Architecture: iphoneos-arm
+Section: System
+Description: Tiện ích đơn giản cho phép chuyển từ unc0ver sang checkra1n mà không cần phải cài đặt lại Cydia Substrate theo cách thủ công.
+Author: Halo_Michael <yc992147156@me.com>
+Maintainer: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Support: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Depends: dpkg, firmware(>=12.3)
+Filename: ./debs/com.hoangtuan.substrated_0.9.7113_iphoneos-arm.deb
+Size: 2537962
+Installed-Size: 2541
+MD5sum: 11e64196d92587ab8331d047d1af42bc
+Homepage: https://facebook.com/qq.robert
+Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.substrated
+Icon: file:///Applications/Cydia.app/Sections/HTR-2.png
+Name: Unc0ver Support Package
+
+Package: com.hoangtuan.videoadsspeed
+Version: 1.0.4-3
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Tua nhanh video Quảng Cáo 
+Author: lenglengyu <lenglengyu@126.com>
+Maintainer: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+dev: lenglengyu
+Support: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Depends: mobilesubstrate(>= 0.9.5015), preferenceloader(>= 2.2.2), applist
+Conflicts: com.yourepo.lenglengyu.adsspeed
+Filename: ./debs/com.hoangtuan.videoadsspeed_1.0.4-3_iphoneos-arm.deb
+Size: 205670
+Installed-Size: 900
+MD5sum: dfd15b3c617f6bbe7bcee6e521961e8d
+Homepage: https://facebook.com/qq.robert
+Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.videoadsspeed
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Name: VideoAdsSpeed
+
+Package: com.hoangtuan.videoswipes
+Version: 1.4-2
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Thêm thao tác vuốt trình phát video
+Author: AnthoPak <anthococagne@hotmail.fr>
+Maintainer: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Support: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Depends: mobilesubstrate(>= 0.9.5015), firmware (>= 11.0), preferenceloader, ws.hbang.common (>= 1.11)
+Filename: ./debs/com.hoangtuan.videoswipes_1.4-2_iphoneos-arm.deb
+Size: 637080
+Installed-Size: 1059
+MD5sum: 925ee721895b3cb0ae89deb089d205a9
+Homepage: https://facebook.com/qq.robert
+Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.videoswipes
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Name: VideoSwipes VH
+
+Package: com.hoangtuan.weibonoads
+Version: 1.6-1
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Xoá quảng cáo và tải video Weibo
+Author: Netskao
+Maintainer: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Support: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate
+Filename: ./debs/com.hoangtuan.weibonoads_1.6-1_iphoneos-arm.deb
+Size: 136416
+Installed-Size: 388
+MD5sum: c9b3bb41622d05ed87b1cff41149d85d
+Homepage: https://facebook.com/qq.robert
+Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.weibonoads
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Name: Weibo NoAds
+
+Package: com.hoangtuan.wifikey
+Version: 1.8
+Architecture: iphoneos-arm
+Section: Utilities
+Description: Xem và chia sẻ mật khẩu wifi
+Author: fahlnbg
+Maintainer: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Support: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Filename: ./debs/com.hoangtuan.wifikey_1.8_iphoneos-arm.deb
+Size: 36014
+Installed-Size: 168
+MD5sum: 21e64676512a72f9278c60d2ce2977f3
+Homepage: https://facebook.com/qq.robert
+Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.wifikey
+Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
+Name: WiFi Key
+
+Package: com.hoangtuan.ytnoupdate
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Disables upgrade dialog that pops up when running YouTube app on older iOS. Tested on iPad Air 1 running iOS 8.4 and YouTube app version 12.11.6
+Author: fahlnbg
+Maintainer: fahlnbg
+Depends: mobilesubstrate
+Filename: ./debs/com.hoangtuan.ytnoupdate_0.0.1-1+debug_iphoneos-arm.deb
+Size: 17016
+Installed-Size: 144
+MD5sum: 07a1486ce63de3b964d1a7a2c6c20188
+Homepage: https://facebook.com/qq.robert
+Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.ytnoupdate
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Name: YouTube - Disable Update
+
+Package: com.hoangtuantk.github.io.icon
+Version: 3.1
+Architecture: iphoneos-arm
+Section: System
+Essential: yes
+Description: Biểu tượng Cydia cho kho lưu trữ Hoàng Tuân Repo
+Author: Hoàng Tuân
+Maintainer: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Support: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Filename: ./debs/com.hoangtuantk.github.io.icon_3.1_iphoneos-arm.deb
+Size: 166422
+Installed-Size: 175
+MD5sum: ea54009ae4fd9164460ebe52a1802b78
+Homepage: https://facebook.com/qq.robert
+Depiction: Biểu tượng Cydia cho kho lưu trữ Hoàng Tuân Repo
+Icon: file:///Applications/Cydia.app/Sections/HTR-7.png
+Name: Icon - Hoàng Tuân Repo
+
+Package: com.udevs.vexillarius
+Version: 0.0.3 
+Architecture: iphoneos-arm
+Section: System
+Description: Standard Bearer
+Author: udevs
+Maintainer: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Support: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Tag: role::hacker
+Filename: ./debs/com.udevs.vexillarius_0.0.3_iphoneos-arm.deb
+Size: 5472
+Installed-Size: 136
+MD5sum: 4b89ff607885606678559d688c77d5aa
+Homepage: https://facebook.com/qq.robert
+Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.vexillarius
+Icon: file:///Applications/Cydia.app/Sections/HTR-2.png
+Name: vexillarius
+
+Package: com.bingner.plutil
+Version: 0.2.1
+Architecture: iphoneos-arm
+Section: System
+Description: plutil as from erica sadun
+Author: Samuel Bingner
+Maintainer: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Support: Hoàng Tuân <mail.hoangtuan98@gmail.com>
+Depends: firmware (>=2.0)
+Conflicts: com.ericasadun.utilities
+Tag: role::hacker
+Multi-Arch: foreign
+Filename: ./debs/com.bingner.plutil_0.2.1_iphoneos-arm.deb
+Size: 27146
+Installed-Size: 144
+MD5sum: dbe356a058196f723918a342470f0106
+Homepage: https://facebook.com/qq.robert
+Depiction: plutil as from erica sadun
+Icon: file:///Applications/Cydia.app/Sections/HTR-2.png
+Name: plutil

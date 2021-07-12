@@ -1,0 +1,9 @@
+{
+	"name": "Apps Hacks VH",
+	"desc_short": "Hack VIP cho các ứng dụng",
+	"desc_long": null,
+	"compatitle": "iOS 11.0 đến iOS 14.7",
+	"changelog": null,
+	"screenshot": "<div style='text-align:center;'> <a href='https://raw.githubusercontent.com/hoangtuantk/hoangtuantk.github.io/main/packageInfo/Screenshot/com.hoangtuan.appshacks/screenshot.jpg' target='_blank'><img width=95% src='https://raw.githubusercontent.com/hoangtuantk/hoangtuantk.github.io/main/packageInfo/Screenshot/com.hoangtuan.appshacks/screenshot.jpg'/></a> <br></div>",
+	"open": true,
+}

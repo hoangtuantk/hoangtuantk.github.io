@@ -1,0 +1,9 @@
+{
+	"name": "Zebra",
+	"desc_short": null,
+	"desc_long": "Một trình quản lý gói tương tự như Cydia, nhanh hơn và thuận tiện hơn.",
+	"compatitle": "iOS 9.0 đến iOS 14.7",
+	"changelog": null,
+	"screenshot": null,
+	"open": true,
+}

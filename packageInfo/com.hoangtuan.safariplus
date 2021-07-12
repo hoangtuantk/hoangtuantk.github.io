@@ -1,0 +1,9 @@
+{
+	"name": "Safari Plus VH",
+	"desc_short": "Thêm tinh chỉnh cho Safari",
+	"desc_long": null,
+	"compatitle": "iOS 8.0 đến iOS 14.7",
+	"changelog": null,
+	"screenshot": "<div style='text-align:center;'><a href='https://raw.githubusercontent.com/hoangtuantk/hoangtuantk.github.io/main/packageInfo/Screenshot/com.hoangtuan.safariplus/screenshot1.jpg' target='_blank'><img width=95% src='https://raw.githubusercontent.com/hoangtuantk/hoangtuantk.github.io/main/packageInfo/Screenshot/com.hoangtuan.safariplus/screenshot1.jpg'/></a><a href='https://raw.githubusercontent.com/hoangtuantk/hoangtuantk.github.io/main/packageInfo/Screenshot/com.hoangtuan.safariplus/screenshot2.jpg' target='_blank'><img width=95% src='https://raw.githubusercontent.com/hoangtuantk/hoangtuantk.github.io/main/packageInfo/Screenshot/com.hoangtuan.safariplus/screenshot2.jpg'/></a><a href='https://raw.githubusercontent.com/hoangtuantk/hoangtuantk.github.io/main/packageInfo/Screenshot/com.hoangtuan.safariplus/screenshot3.jpg' target='_blank'><img width=95% src='https://raw.githubusercontent.com/hoangtuantk/hoangtuantk.github.io/main/packageInfo/Screenshot/com.hoangtuan.safariplus/screenshot3.jpg'/></a><a href='https://raw.githubusercontent.com/hoangtuantk/hoangtuantk.github.io/main/packageInfo/Screenshot/com.hoangtuan.safariplus/screenshot4.jpg' target='_blank'><img width=95% src='https://raw.githubusercontent.com/hoangtuantk/hoangtuantk.github.io/main/packageInfo/Screenshot/com.hoangtuan.safariplus/screenshot4.jpg'/></a><br></div>",
+	"open": true,
+}

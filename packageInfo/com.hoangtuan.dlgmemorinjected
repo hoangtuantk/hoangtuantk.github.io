@@ -1,0 +1,9 @@
+{
+	"name": "DLGMemor Injected",
+	"desc_short": "Thay đổi bộ nhớ ứng dụng",
+	"desc_long": "&emsp; Tiện ích cho phép bạn thay đổi bộ nhớ trong ứng dụng. Sau khi cài đặt, hãy vào <b>Cài đặt</b>, đi tới <b>DLGMemorInjected</b> và chọn ứng dụng bạn muốn hack bộ nhớ.",
+	"compatitle": "iOS 11.0 đến iOS 14.7",
+	"changelog": null,
+	"screenshot": "<div style='text-align:center;'><a href='https://raw.githubusercontent.com/hoangtuantk/hoangtuantk.github.io/main/packageInfo/Screenshot/com.hoangtuan.dlgmemorinjected/screenshot1.jpg' target='_blank'><img width=95% src='https://raw.githubusercontent.com/hoangtuantk/hoangtuantk.github.io/main/packageInfo/Screenshot/com.hoangtuan.dlgmemorinjected/screenshot1.jpg'/></a><a href='https://raw.githubusercontent.com/hoangtuantk/hoangtuantk.github.io/main/packageInfo/Screenshot/com.hoangtuan.dlgmemorinjected/screenshot2.jpg' target='_blank'><img width=95% src='https://raw.githubusercontent.com/hoangtuantk/hoangtuantk.github.io/main/packageInfo/Screenshot/com.hoangtuan.dlgmemorinjected/screenshot2.jpg'/></a><a href='https://raw.githubusercontent.com/hoangtuantk/hoangtuantk.github.io/main/packageInfo/Screenshot/com.hoangtuan.dlgmemorinjected/screenshot3.jpg' target='_blank'><img width=95% src='https://raw.githubusercontent.com/hoangtuantk/hoangtuantk.github.io/main/packageInfo/Screenshot/com.hoangtuan.dlgmemorinjected/screenshot3.jpg'/></a><br></div>",
+	"open": true,
+}

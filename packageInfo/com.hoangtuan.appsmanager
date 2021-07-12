@@ -1,0 +1,9 @@
+{
+	"name": "Apps Manager",
+	"desc_short": "Sao lưu và khôi phục dữ liệu",
+	"desc_long": "Công cụ để <b>SAO LƯU</b>, <b>KHÔI PHỤC</b> Dữ liệu ứng dụng cho các Ứng dụng đã cài đặt.<br><br>Bấm <b>Kích Hoạt</b> nếu có thông báo <b>Kích Hoạt</b>",
+	"compatitle": "iOS 10.0 đến iOS 14.7",
+	"changelog": null,
+	"screenshot": "<div style='text-align:center;'> <a href='https://raw.githubusercontent.com/hoangtuantk/hoangtuantk.github.io/main/packageInfo/Screenshot/com.hoangtuan.appsmanager/screenshot.jpg' target='_blank'><img width=95% src='https://raw.githubusercontent.com/hoangtuantk/hoangtuantk.github.io/main/packageInfo/Screenshot/com.hoangtuan.appsmanager/screenshot.jpg'/></a> <br></div>",
+	"open": true,
+}

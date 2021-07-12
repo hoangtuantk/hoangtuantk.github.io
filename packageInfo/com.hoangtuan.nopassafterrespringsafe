@@ -1,0 +1,9 @@
+{
+	"name": "NoPassAfterRespring (Safe)",
+	"desc_short": "Không cần nhập mật khẩu sau khi Respring",
+	"desc_long": "- Sau khi Respring, LDRestart, ... sẽ vào thẳng luôn màn hình chính mà không cần nhập mật khẩu (Máy phải được nhập mật khẩu trước đó hoặc không có mật khẩu)",
+	"compatitle": "iOS 7.0 đến iOS 14.7",
+	"changelog": null,
+	"screenshot": null,
+	"open": true,
+}

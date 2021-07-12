@@ -1,0 +1,9 @@
+{
+	"name": "AppStore++",
+	"desc_short": "Nâng cấp / Hạ cấp ứng dụng trong Appstore",
+	"desc_long": "- Cho phép bạn nâng cấp / hạ cấp ứng dụng trong AppStore<br>- Chặn cập nhật ứng dụng<br>- Không bị giới hạn tải xuống ứng dụng lớn hơn 200MB<br>- Tắt quảng cáo tìm kiếm và tắt tính năng làm mỏng ứng dụng<br><br><li></li>Cách sử dụng:<br>&emsp; + Vào Appstore ấn giữ mục tải về sẽ hiện ra tuỳ chọn<br>&emsp; + Vào Appstore ấn giữ mục tài khoản (Avatar) để hiện cài đặt cho Appstore++",
+	"compatitle": "iOS 11.0 đến iOS 14.7",
+	"changelog": null,
+	"screenshot": "<div style='text-align:center;'><a href='https://raw.githubusercontent.com/hoangtuantk/hoangtuantk.github.io/main/packageInfo/Screenshot/com.hoangtuan.appstoreplusplus/screenshot1.jpg' target='_blank'><img width=95% src='https://raw.githubusercontent.com/hoangtuantk/hoangtuantk.github.io/main/packageInfo/Screenshot/com.hoangtuan.appstoreplusplus/screenshot1.jpg'/></a><a href='https://raw.githubusercontent.com/hoangtuantk/hoangtuantk.github.io/main/packageInfo/Screenshot/com.hoangtuan.appstoreplusplus/screenshot2.jpg' target='_blank'><img width=95% src='https://raw.githubusercontent.com/hoangtuantk/hoangtuantk.github.io/main/packageInfo/Screenshot/com.hoangtuan.appstoreplusplus/screenshot2.jpg'/></a><a href='https://raw.githubusercontent.com/hoangtuantk/hoangtuantk.github.io/main/packageInfo/Screenshot/com.hoangtuan.appstoreplusplus/screenshot3.jpg' target='_blank'><img width=95% src='https://raw.githubusercontent.com/hoangtuantk/hoangtuantk.github.io/main/packageInfo/Screenshot/com.hoangtuan.appstoreplusplus/screenshot3.jpg'/></a><a href='https://raw.githubusercontent.com/hoangtuantk/hoangtuantk.github.io/main/packageInfo/Screenshot/com.hoangtuan.appstoreplusplus/screenshot4.jpg' target='_blank'><img width=95% src='https://raw.githubusercontent.com/hoangtuantk/hoangtuantk.github.io/main/packageInfo/Screenshot/com.hoangtuan.appstoreplusplus/screenshot4.jpg'/></a><br></div>",
+	"open": true,
+}

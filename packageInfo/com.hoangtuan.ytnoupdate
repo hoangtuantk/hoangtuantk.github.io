@@ -1,0 +1,9 @@
+{
+	"name": "YouTube - Disable Update",
+	"desc_short": null,
+	"desc_long": "Chặn hiện thông báo <b>Yêu cầu cập nhật</b> trên Youtube phiên bản cũ",
+	"compatitle": null,
+	"changelog": null,
+	"screenshot": null,
+	"open": true,
+}

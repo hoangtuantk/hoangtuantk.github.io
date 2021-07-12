@@ -1,0 +1,9 @@
+{
+	"name": "Amber",
+	"desc_short": "Đèn LED màu vàng",
+	"desc_long": "Tinh chỉnh để cho phép cài đặt Đèn LED màu vàng hoặc cả Đèn LED màu trắng và vàng. .<br><br> Vào <b>Cài đặt</b>, đi đến <b>Trung Tâm điều khiển</b> và thêm <b>Amber</b> để sử dụng",
+	"compatitle": "iOS 11.0 đến iOS 14.7",
+	"changelog": "<strong>1.0.0</strong><br>+ Amber Flipswitch now includes arm64e slice<br><strong>0.0.5.1</strong><br>+ Fixed crashing when swiping in expanded flashlight view in Control Center for iOS 13 and lower<br><strong>0.0.5</strong><br>+ Fixed crashing on H11|SP and newer camera devices<br><strong>0.0.4</strong><br>+ Support H13 camera devices<br>",
+	"screenshot": "<div style='text-align:center;'><a href='https://raw.githubusercontent.com/hoangtuantk/hoangtuantk.github.io/main/packageInfo/Screenshot/com.hoangtuan.amber/screenshot1.jpg' target='_blank'><img width=95% src='https://raw.githubusercontent.com/hoangtuantk/hoangtuantk.github.io/main/packageInfo/Screenshot/com.hoangtuan.amber/screenshot1.jpg'/></a><a href='https://raw.githubusercontent.com/hoangtuantk/hoangtuantk.github.io/main/packageInfo/Screenshot/com.hoangtuan.amber/screenshot2.jpg' target='_blank'><img width=95% src='https://raw.githubusercontent.com/hoangtuantk/hoangtuantk.github.io/main/packageInfo/Screenshot/com.hoangtuan.amber/screenshot2.jpg'/></a><a href='https://raw.githubusercontent.com/hoangtuantk/hoangtuantk.github.io/main/packageInfo/Screenshot/com.hoangtuan.amber/screenshot3.jpg' target='_blank'><img width=95% src='https://raw.githubusercontent.com/hoangtuantk/hoangtuantk.github.io/main/packageInfo/Screenshot/com.hoangtuan.amber/screenshot3.jpg'/></a><br></div>",
+	"open": true,
+}

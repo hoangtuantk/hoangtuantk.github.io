@@ -1,0 +1,9 @@
+{
+	"name": "Weibo NoAds",
+	"desc_short": "Xoá quảng cáo và tải video Weibo",
+	"desc_long": "- Xóa quảng cáo khi khởi động Weibo <br>- Xóa quảng cáo khuyến mãi, tin tức nóng <br>- Xóa biểu ngữ quảng cáo bên dưới video<br>- Xóa phần phong bì đỏ trên trang chủ <br>- Xóa trang trí cá tính trên thẻ thông tin<br>- Xóa quảng cáo video khi phát ở chế độ toàn màn hình<br>- Xóa quảng cáo khỏi luồng thông tin<br>- Chạm 2 lần vào video để tải: Hỗ trợ định dạng 720P - 360P",
+	"compatitle": "iOS 10.0 đến iOS 14.7",
+	"changelog": null,
+	"screenshot": null,
+	"open": true,
+}
