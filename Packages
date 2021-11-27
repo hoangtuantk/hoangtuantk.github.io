@@ -1,0 +1,19 @@
+Package: repo.tuandb.name.vn
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Add repo.tuandb.name.vn
+Maintainer: Hoàng Tuân <contact.tuandb@gmail.com>
+Filename: ./debs/repo.tuandb.name.vn_1.0_iphoneos-arm.deb
+Size: 784
+MD5sum: 6b330bab11de283ea617d71aa13b0383
+SHA1: 6410e9905499c6ed0a8caed67cfc4d1870c9945f
+SHA256: 128d64c7aae958e3adf5c1ceef718b0455bd1d49967a8cc3a7734b34eb0f7765
+SHA512: 56fe95200f6533300b885265b4112c608bf6907ed6ae80ee74d27c1c3c3c20822312ad8ff497cfa26b7fcd820cf16e477bd7541f1a541ec85f5a3838e5a61080
+Homepage: https://repo.tuandb.name.vn
+Description: Nguồn mới: repo.tuandb.name.vn
+Name: Add repo.tuandb.name.vn
+Icon: https://hoangtuantk.github.io/CydiaIcon.png
+Depiction: https://hoangtuantk.github.io
+Author: Hoàng Tuân <contact.tuandb@gmail.com>
+Support: Hoàng Tuân <contact.tuandb@gmail.com>
+
